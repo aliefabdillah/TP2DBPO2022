@@ -28,4 +28,4 @@ Bahasa yang digunakan pada tugas praktikum kali ini adalah bahasa pemrogaman PHP
  
  ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/form_bidang.png)
   
- ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/divisi.png)
+ ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/form_divisi.png)
