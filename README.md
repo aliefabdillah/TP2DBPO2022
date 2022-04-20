@@ -6,15 +6,15 @@
 Bahasa yang digunakan pada tugas praktikum kali ini adalah bahasa pemrogaman PHP
 
 ## Screenshot Hasil Program
-1. Menu Home
+### 1. Menu Home
 
  ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/home.png)
 
-2. Menu Detail Pengurus
+### 2. Menu Detail Pengurus
 
  ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/detail_pengurus.png)
 
-3. Menu Details
+### 3. Menu Details
 
  ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/details_1.png)
  
@@ -22,7 +22,7 @@ Bahasa yang digunakan pada tugas praktikum kali ini adalah bahasa pemrogaman PHP
   
  ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/details_3.png)
 
-4. Form
+### 4. Form
 
  ![alt text](https://github.com/aliefabdillah/TP2DBPO2022/blob/main/screenshotTp2/form_pengurus.png)
  
